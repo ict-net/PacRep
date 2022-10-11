@@ -1,5 +1,5 @@
 # PacRep
-This is the implementation for KDD'22 paper: "[Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3534678.3539085)".
+Source code for KDD'22 paper: "[Packet Representation Learning for Traffic Classification](https://dl.acm.org/doi/abs/10.1145/3534678.3539085)".
 # Requirements
 - python: 3.8
 - pytorch: 1.8.1
