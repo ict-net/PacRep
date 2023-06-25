@@ -10,7 +10,7 @@ Source code for KDD'22 paper: "[Packet Representation Learning for Traffic Class
 
 # Usage
 ### Train the model
-1. Download preprocessed data from [here](https://drive.google.com/drive/folders/1zpLiBsJQJJ02r0q6JBIruewxyJahbYY-?usp=sharing), and unzip it to ```./data/```. You can also use your own data with the same format, and change the data path by ```--data_dir```
+1. Download preprocessed data from [here](https://drive.google.com/drive/folders/1zpLiBsJQJJ02r0q6JBIruewxyJahbYY-?usp=sharing), and unzip it to ```./data/```. You can also use your own data with the same format, and change the data path by ```--data_dir```. An example of preprocessing can be found in ```./data/pre_exp``` and ```preprocess_exp.py```.
 2. Run the code
 ```
 python3 run_train.py
