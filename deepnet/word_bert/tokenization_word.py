@@ -1,8 +1,3 @@
-# coding: utf-8
-#
-# Copyright 2020 Yequan Wang
-# Author: Yequan Wang (tshwangyequan@gmail.com)
-#
 # inherit tokenization, and advanced
 
 from __future__ import absolute_import
