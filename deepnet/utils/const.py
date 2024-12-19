@@ -1,8 +1,3 @@
-# coding: utf-8
-#
-# Copyright 2020 Yequan Wang
-# Author: Yequan Wang (tshwangyequan@gmail.com)
-#
 # const file
 
 import os
