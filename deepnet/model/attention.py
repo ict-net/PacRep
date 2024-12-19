@@ -1,8 +1,3 @@
-# coding: utf-8
-#
-# Copyright 2020 Yequan Wang
-# Author: Yequan Wang (tshwangyequan@gmail.com)
-#
 # attention module
 
 from __future__ import unicode_literals, print_function, division
