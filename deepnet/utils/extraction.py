@@ -1,8 +1,3 @@
-# -*- coding:utf8 -*-
-#
-# Copyright 2021 Yequan Wang
-# Author: Yequan Wang (tshwangyequan@gmail.com)
-#
 # common operations for extraction
 
 from typing import List
