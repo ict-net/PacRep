@@ -1,8 +1,3 @@
-# coding: utf-8
-#
-# Copyright 2021 Yequan Wang
-# Author: Yequan Wang (tshwangyequan@gmail.com)
-#
 # word vector management
 
 import os
